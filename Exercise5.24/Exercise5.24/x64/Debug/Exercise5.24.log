@@ -1,0 +1,4 @@
+﻿  1673.c
+C:\D original\study folder\C\LEECODE\Exercise5.24\1673.c(25,46): warning C4047: “函数”:“int *”与“int”的间接级别不同
+C:\D original\study folder\C\LEECODE\Exercise5.24\1673.c(25,46): warning C4024: “mostCompetitive”: 形参和实参 4 的类型不同
+  Exercise5.24.vcxproj -> C:\D original\study folder\C\LEECODE\Exercise5.24\x64\Debug\Exercise5.24.exe

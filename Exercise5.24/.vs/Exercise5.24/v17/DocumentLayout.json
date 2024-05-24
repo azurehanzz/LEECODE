@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D original\\study folder\\C\\LEECODE\\Exercise5.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC82DC1-DA7F-47CB-A5A6-FBE77CEDA695}|Exercise5.24.vcxproj|C:\\D original\\study folder\\C\\LEECODE\\Exercise5.24\\1673.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFC82DC1-DA7F-47CB-A5A6-FBE77CEDA695}|Exercise5.24.vcxproj|solutionrelative:1673.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1673.c",
+              "DocumentMoniker": "C:\\D original\\study folder\\C\\LEECODE\\Exercise5.24\\1673.c",
+              "RelativeDocumentMoniker": "1673.c",
+              "ToolTip": "C:\\D original\\study folder\\C\\LEECODE\\Exercise5.24\\1673.c",
+              "RelativeToolTip": "1673.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-24T05:10:22.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
